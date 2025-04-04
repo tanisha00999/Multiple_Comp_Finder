@@ -41,7 +41,9 @@ projects= {
     "Home Automation using IoT": ["Bulb", "Wire", "Bulb_Holder", "DC_Fan", "Dual_Channel Relay", "Switch", "ESP8266", "Breadboard", "Breadboard", "Micro-USB", "Snap", "Battery","DHT11"],
     "IoT Smart Farming System": ["DHT11", "Soil_Moisture Sensor", "LDR", "Pump", "Diode(IN4007)", "ESP8266", "Breadboard", "Breadboard", "Micro-USB", "Dual_Channel Relay", "Switch", "Snap", "Battery"],
     "Edge Avoider Bot": ["Arduino Original", "IR_Sensor", "IR_Sensor", "Chassis", "Wheels", "DCmotor", "L298n", "18650", "Battery Holder W/Switch", "Castor Wheel"],
-    "Digital Compass": ["Arduino", "Uno Cable", "Lcd Display W/I2C 16*2", "HMC5883L"]
+    "Digital Compass": ["Arduino", "Uno Cable", "Lcd Display W/I2C 16*2", "HMC5883L"],
+    "Air Quality Monitoring System" : ["Arduino", "Uno Cable", "Lcd Display W/I2C 16*2","MQ135"],
+    "Soil Mositure Monitoring" : ["Arduino", "Uno Cable", "Lcd Display W/I2C 16*2","Soil_Moisture Sensor"]
 }
 
 
